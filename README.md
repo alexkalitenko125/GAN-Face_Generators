@@ -1,5 +1,5 @@
 # GAN-KID-F
-GAN for kpop female idols
+GAN for kpop female faces
 
 K-pop Idol Dataset - Female (KID-F) is the first dataset of K-pop idol high quality face images. It consists of about 10,000 high quality face images (https://www.kaggle.com/datasets/vkehfdl1/kidf-kpop-idol-dataset-female, https://www.kaggle.com/datasets/rossellison/kpop-idol-faces). Two methods are used: DCGAN and ProGAN. 
 
